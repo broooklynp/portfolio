@@ -161,3 +161,19 @@ select {
   font-family: inherit;
   font-size: 80%;
 }
+
+#profile-stats{
+  dl {
+    display: grid;
+    grid-template-columns: max-content auto;
+    gap: 4px;
+  }
+  dt {
+    display: subgrid;
+    grid-column-start: 1;
+  }
+  dd {
+    display: subgrid;
+    grid-column-start: 2;
+  }
+}

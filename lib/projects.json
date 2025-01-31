@@ -1,0 +1,74 @@
+[
+    {
+        "title": "Expository Visualization",
+        "year": "2025",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Designed an expository visualization to clearly communicate an idea based on a small data set. My visualization answers questions about sunshine fluctuation between major U.S. cities throughout the year."
+    },
+    {
+        "title": "Power Outage Analysis",
+        "year": "2024",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Investigated the question: Which characteristics are associated with power outages in different regions of the U.S.? Created a model to predict the severity of a power outage based on certain data features."
+    },
+    {
+        "title": "Image Classifier",
+        "year": "2024",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Created a program to identify image features and classify an inputted image based on the time of day using a KNN algorithm. Thoroughly tested program in different scenarios to ensure optimal functionality."
+    },
+    {
+        "title": "Spell Checker",
+        "year": "2024",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Implemented spell checker functionality using Java. When the spell checker comes across a misspelled word, it gives suggestions for correctly spelled words that are similar to the misspelled word that the user typed."
+    },
+    {
+        "title": "Priority Queue Implementation",
+        "year": "2024",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Produced a working priority queue using dHeap (heap with d branching factor). Programmed methods to insert elements, remove elements, retrieve elements, check if empty, and clear the queue."
+    },
+    {
+        "title": "Sorting Algorithm Runtime Analysis",
+        "year": "2024",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Analyzed the runtimes of different sorting algorithms such as insertion sort, quick sort, count sort, etc. Tested the scalability of sorting algorithms and created plots to communicate the results."
+    },
+    {
+        "title": "DNA To Protein Transformer",
+        "year": "2024",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Created a program to transform a sequence of DNA into RNA, and then transform that RNA into proteins. Made use of circular queues to store information."
+    },
+    {
+        "title": "Spotify Artist Discography Analysis",
+        "year": "2023",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Developed a song recommender tool that takes an inputted song and finds the most similar song, based on the euclidean distance between audio features. Utilized TF-IDF to determine the lyric that best summarizes a song."
+    },
+    {
+        "title": "Meteorite Probability Analysis",
+        "year": "2023",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Conducted hypothesis and permutation tests to analyze distributions of meteorite data, applying statistical methods and drawing meaningful insights. Visualized results using Matplotlib and Plotly."
+    },
+    {
+        "title": "Dignissimos dolor sequi ad!",
+        "year": "2023",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Eum nam, ipsam voluptates facere porro quae quis velit fugiat obcaecati iure repudiandae consectetur soluta laboriosam aliquid ullam vitae doloremque tenetur rerum. Explicabo porro ad excepturi rerum obcaecati ratione? Deleniti."
+    },
+    {
+        "title": "Accusantium ratione dolorem veritatis?",
+        "year": "2023",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Animi, iure eligendi? Alias debitis exercitationem libero impedit blanditiis illo molestiae inventore molestias ut sed pariatur eius voluptates iste, deserunt laborum ipsa excepturi dolores omnis! Magnam distinctio qui minima doloremque!"
+    },
+    {
+        "title": "Vitae enim omnis soluta!",
+        "year": "2022",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Natus pariatur amet veritatis quas dolorem consequatur, praesentium ut blanditiis est quae unde doloremque ipsum excepturi accusantium sunt, itaque alias! Aut sequi est cumque temporibus veniam porro tempore sint incidunt."
+    }
+]
