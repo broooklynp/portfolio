@@ -177,3 +177,65 @@ select {
     grid-column-start: 2;
   }
 }
+
+#projects-pie-plot {
+  max-width: 20em;
+  margin-block: 2em;
+
+  /* Do not clip shapes outside the viewBox */
+  overflow: visible;
+}
+
+.swatch {
+  display: inline-block;
+  width: 1em;
+  aspect-ratio: 1 / 1;
+  background-color: var(--color);
+  border-radius: 20%;
+}
+
+.legend {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(8em, 1fr));
+  border: solid oklch(82.87% 0.0057 270.62);
+  gap: 0.5em;
+  flex: 1;
+  padding: 1em;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+}
+
+.container {
+  display: flex;
+  gap: 2em;
+  align-items: center;
+}
+
+.searchBar {
+  margin-bottom: 1em;
+  width: 100%;
+}
+
+&:has(path:hover) {
+  path:not(:hover) {
+    opacity: 0.5;
+  }
+}
+
+path {
+  transition: 300ms;
+  cursor: pointer;
+}
+
+.selected {
+  --color: oklch(87.22% 0.1927 112.12) !important;
+
+  &:is(path) {
+    fill: var(--color);
+  }
+}

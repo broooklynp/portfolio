@@ -1,5 +1,11 @@
 [
     {
+        "title": "Deceptive Visualization",
+        "year": "2025",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Designed a subtly deceptive data visualization to purposely mislead the viewer. Learned how design elements and visual encodings can be used to convey both accurate and inaccurate information."
+    },
+    {
         "title": "Expository Visualization",
         "year": "2025",
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
@@ -52,12 +58,6 @@
         "year": "2023",
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
         "description": "Conducted hypothesis and permutation tests to analyze distributions of meteorite data, applying statistical methods and drawing meaningful insights. Visualized results using Matplotlib and Plotly."
-    },
-    {
-        "title": "Dignissimos dolor sequi ad!",
-        "year": "2023",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Eum nam, ipsam voluptates facere porro quae quis velit fugiat obcaecati iure repudiandae consectetur soluta laboriosam aliquid ullam vitae doloremque tenetur rerum. Explicabo porro ad excepturi rerum obcaecati ratione? Deleniti."
     },
     {
         "title": "Accusantium ratione dolorem veritatis?",
