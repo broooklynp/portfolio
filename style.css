@@ -239,3 +239,23 @@ path {
     fill: var(--color);
   }
 }
+
+#stats {
+  dl {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    text-align: left;
+    gap: 1em;
+  }
+  dt {
+    text-transform: uppercase;
+    font-size: 14px;
+    color: oklch(47.73% 0.0239 274.59);
+    grid-row: 1;
+  }
+  dd {
+    grid-row: 2;
+    font-size: 25px;
+    margin: 0px;
+  }
+}
